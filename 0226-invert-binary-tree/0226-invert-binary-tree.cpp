@@ -21,8 +21,8 @@ public:
         root->left = root->right;
         root->right = temp;
         
-        solve(root->left);
         solve(root->right);
+        solve(root->left);
     }
     
     TreeNode* invertTree(TreeNode* root) {
