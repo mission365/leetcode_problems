@@ -12,23 +12,20 @@
 class Solution {
 public:
     
-    void solve(TreeNode* root, int temp , int &ans) {
-        if(root == NULL) return ;
-        temp+=1;
-        if(root->left == NULL && root->right == NULL){
-            if(ans>=temp) ans = temp;
-            return ;
-        }
+    int solve(TreeNode* root) {
+        if(root == NULL) return INT_MAX;
+        if(root->left == NULL && root->right == NULL) return 1; 
         
-        solve(root->left, temp, ans);
-        solve(root->right, temp, ans);       
+        int x = solve(root->left);
+        int y = solve(root->right);
+        
+        return min(x,y)+1;
     }
+    
+     
     
     int minDepth(TreeNode* root) {
         if(root == NULL) return 0;
-        int temp = 0;
-        int ans = INT_MAX;
-        solve(root, temp, ans);
-        return ans;
+        return solve(root);
     }
 };
