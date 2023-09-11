@@ -30,6 +30,6 @@ public:
         if(root == NULL) return false;
         int temp = 0;
         return solve(root, targetSum, temp);
-        // return root;
+        
     }
 };
