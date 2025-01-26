@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/mission365/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/mission365/leetcode_problems/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/mission365/leetcode_problems/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/mission365/leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mission365/leetcode_problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mission365/leetcode_problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0275-h-index-ii](https://github.com/mission365/leetcode_problems/tree/master/0275-h-index-ii) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/mission365/leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0436-find-right-interval](https://github.com/mission365/leetcode_problems/tree/master/0436-find-right-interval) |
 | [0658-find-k-closest-elements](https://github.com/mission365/leetcode_problems/tree/master/0658-find-k-closest-elements) |
 ## Interactive
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/mission365/leetcode_problems/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/mission365/leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/mission365/leetcode_problems/tree/master/0658-find-k-closest-elements) |
 ## Sliding Window
 |  |
