@@ -11,30 +11,38 @@
  */
 class Solution {
 public:
-    
-    void findPath(TreeNode* root, string temp, vector<string> &ans) {
-        if(root == NULL) return;
-        
-        if(root->left == NULL && root->right == NULL) {
-            temp+= to_string(root->val);
-            ans.push_back(temp);
-            return;
-        } 
-        
-        temp += to_string(root->val)+ "->";
-        // ans.push_back(temp);
-        
-        findPath(root->left, temp, ans);
-        // return;
-        findPath(root->right, temp, ans);
+
+    string convert(vector<int> path){
+        int n = path.size();
+        string ans="";
+        for(int i=0;i<n-1;i++){
+            ans+=to_string(path[i]);
+            ans.push_back('-');
+            ans.push_back('>');
+        }
+        ans+=to_string(path[n-1]);
+        return ans;
     }
-    
+
+    void solve(TreeNode* root, vector<int> &path, vector<string> &ans){
+        if(root == NULL) return;
+        if(root->left == NULL && root->right == NULL){
+            path.push_back(root->val);
+            ans.push_back(convert(path));
+            path.pop_back();
+            return;
+        }
+
+        path.push_back(root->val);
+        solve(root->left, path, ans);
+        solve(root->right, path, ans);
+        path.pop_back();
+        return;
+    }
     vector<string> binaryTreePaths(TreeNode* root) {
         vector<string> ans;
-        string temp = "";
-        if(root == NULL) return ans;
-        
-        findPath(root, temp, ans);
+        vector<int> path;
+        solve(root,path,ans);
         return ans;
     }
 };
