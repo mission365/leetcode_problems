@@ -6,7 +6,7 @@ public:
         while(index<n && s[index]==' '){
             index++;
         }
-        bool pos = true; int isfound=0;
+        bool pos = true;
         if(index<n && (s[index]=='+' || s[index]=='-')){
             pos = (s[index]=='+');
             index++;
