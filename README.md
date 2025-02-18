@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/mission365/leetcode_problems/tree/master/0008-string-to-integer-atoi) |
 | [0257-binary-tree-paths](https://github.com/mission365/leetcode_problems/tree/master/0257-binary-tree-paths) |
 ## Backtracking
 |  |
