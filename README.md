@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0257-binary-tree-paths](https://github.com/mission365/leetcode_problems/tree/master/0257-binary-tree-paths) |
 | [0733-flood-fill](https://github.com/mission365/leetcode_problems/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/mission365/leetcode_problems/tree/master/0801-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
@@ -150,4 +151,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/mission365/leetcode_problems/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/mission365/leetcode_problems/tree/master/0801-is-graph-bipartite) |
+## Union Find
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/mission365/leetcode_problems/tree/master/0801-is-graph-bipartite) |
+## Graph
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/mission365/leetcode_problems/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
