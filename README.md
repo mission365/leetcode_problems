@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/mission365/leetcode_problems/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mission365/leetcode_problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0945-snakes-and-ladders](https://github.com/mission365/leetcode_problems/tree/master/0945-snakes-and-ladders) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/mission365/leetcode_problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mission365/leetcode_problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/mission365/leetcode_problems/tree/master/1646-kth-missing-positive-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mission365/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -187,4 +188,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mission365/leetcode_problems/tree/master/0011-container-with-most-water) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/mission365/leetcode_problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 <!---LeetCode Topics End-->
