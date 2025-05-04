@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0882-peak-index-in-a-mountain-array](https://github.com/mission365/leetcode_problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0945-snakes-and-ladders](https://github.com/mission365/leetcode_problems/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/mission365/leetcode_problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/mission365/leetcode_problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mission365/leetcode_problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/mission365/leetcode_problems/tree/master/1646-kth-missing-positive-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mission365/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -119,11 +120,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/mission365/leetcode_problems/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/mission365/leetcode_problems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/mission365/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/mission365/leetcode_problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mission365/leetcode_problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mission365/leetcode_problems/tree/master/0169-majority-element) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/mission365/leetcode_problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mission365/leetcode_problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## String
 |  |
