@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mission365/leetcode_problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/mission365/leetcode_problems/tree/master/1646-kth-missing-positive-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mission365/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/mission365/leetcode_problems/tree/master/2048-build-array-from-permutation) |
 ## Binary Search
 |  |
 | ------- |
@@ -193,4 +194,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/mission365/leetcode_problems/tree/master/0011-container-with-most-water) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/mission365/leetcode_problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/mission365/leetcode_problems/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
