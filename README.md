@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1646-kth-missing-positive-number](https://github.com/mission365/leetcode_problems/tree/master/1646-kth-missing-positive-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mission365/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/mission365/leetcode_problems/tree/master/2048-build-array-from-permutation) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/mission365/leetcode_problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/mission365/leetcode_problems/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/mission365/leetcode_problems/tree/master/0945-snakes-and-ladders) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mission365/leetcode_problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/mission365/leetcode_problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Sorting
 |  |
 | ------- |
@@ -108,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/mission365/leetcode_problems/tree/master/0658-find-k-closest-elements) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/mission365/leetcode_problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -184,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/mission365/leetcode_problems/tree/master/0801-is-graph-bipartite) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/mission365/leetcode_problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -198,4 +202,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/mission365/leetcode_problems/tree/master/2048-build-array-from-permutation) |
+## Shortest Path
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/mission365/leetcode_problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
