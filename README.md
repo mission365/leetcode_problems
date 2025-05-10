@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1646-kth-missing-positive-number](https://github.com/mission365/leetcode_problems/tree/master/1646-kth-missing-positive-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mission365/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/mission365/leetcode_problems/tree/master/2048-build-array-from-permutation) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/mission365/leetcode_problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/mission365/leetcode_problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/mission365/leetcode_problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Binary Search
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/mission365/leetcode_problems/tree/master/0011-container-with-most-water) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/mission365/leetcode_problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/mission365/leetcode_problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Simulation
 |  |
 | ------- |
