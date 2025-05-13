@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mission365/leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mission365/leetcode_problems/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/mission365/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0436-find-right-interval](https://github.com/mission365/leetcode_problems/tree/master/0436-find-right-interval) |
 | [0658-find-k-closest-elements](https://github.com/mission365/leetcode_problems/tree/master/0658-find-k-closest-elements) |
 | [2215-finding-3-digit-even-numbers](https://github.com/mission365/leetcode_problems/tree/master/2215-finding-3-digit-even-numbers) |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/mission365/leetcode_problems/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/mission365/leetcode_problems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/mission365/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/mission365/leetcode_problems/tree/master/0242-valid-anagram) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/mission365/leetcode_problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mission365/leetcode_problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2215-finding-3-digit-even-numbers](https://github.com/mission365/leetcode_problems/tree/master/2215-finding-3-digit-even-numbers) |
@@ -152,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/mission365/leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/mission365/leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/mission365/leetcode_problems/tree/master/0127-word-ladder) |
+| [0242-valid-anagram](https://github.com/mission365/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/mission365/leetcode_problems/tree/master/0257-binary-tree-paths) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mission365/leetcode_problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/mission365/leetcode_problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
