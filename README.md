@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/mission365/leetcode_problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/mission365/leetcode_problems/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/mission365/leetcode_problems/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/mission365/leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0658-find-k-closest-elements](https://github.com/mission365/leetcode_problems/tree/master/0658-find-k-closest-elements) |
 ## Sliding Window
 |  |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/mission365/leetcode_problems/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/mission365/leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/mission365/leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/mission365/leetcode_problems/tree/master/0127-word-ladder) |
 | [0257-binary-tree-paths](https://github.com/mission365/leetcode_problems/tree/master/0257-binary-tree-paths) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mission365/leetcode_problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
