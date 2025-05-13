@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/mission365/leetcode_problems/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/mission365/leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0127-word-ladder](https://github.com/mission365/leetcode_problems/tree/master/0127-word-ladder) |
 | [0257-binary-tree-paths](https://github.com/mission365/leetcode_problems/tree/master/0257-binary-tree-paths) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mission365/leetcode_problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -227,4 +228,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/mission365/leetcode_problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/mission365/leetcode_problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mission365/leetcode_problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
