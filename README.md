@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3321-type-of-triangle](https://github.com/mission365/leetcode_problems/tree/master/3321-type-of-triangle) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/mission365/leetcode_problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/mission365/leetcode_problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3639-zero-array-transformation-i](https://github.com/mission365/leetcode_problems/tree/master/3639-zero-array-transformation-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -256,4 +257,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mission365/leetcode_problems/tree/master/0020-valid-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [3639-zero-array-transformation-i](https://github.com/mission365/leetcode_problems/tree/master/3639-zero-array-transformation-i) |
 <!---LeetCode Topics End-->
