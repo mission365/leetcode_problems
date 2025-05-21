@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/mission365/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/mission365/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/mission365/leetcode_problems/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/mission365/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mission365/leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/mission365/leetcode_problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mission365/leetcode_problems/tree/master/0088-merge-sorted-array) |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/mission365/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mission365/leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mission365/leetcode_problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/mission365/leetcode_problems/tree/master/0733-flood-fill) |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mission365/leetcode_problems/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/mission365/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/mission365/leetcode_problems/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/mission365/leetcode_problems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/mission365/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
