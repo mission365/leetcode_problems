@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/mission365/leetcode_problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/mission365/leetcode_problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/mission365/leetcode_problems/tree/master/3639-zero-array-transformation-i) |
+| [3643-zero-array-transformation-ii](https://github.com/mission365/leetcode_problems/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/mission365/leetcode_problems/tree/master/3647-zero-array-transformation-iii) |
 ## Binary Search
 |  |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0882-peak-index-in-a-mountain-array](https://github.com/mission365/leetcode_problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mission365/leetcode_problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/mission365/leetcode_problems/tree/master/1646-kth-missing-positive-number) |
+| [3643-zero-array-transformation-ii](https://github.com/mission365/leetcode_problems/tree/master/3643-zero-array-transformation-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -268,5 +270,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3639-zero-array-transformation-i](https://github.com/mission365/leetcode_problems/tree/master/3639-zero-array-transformation-i) |
+| [3643-zero-array-transformation-ii](https://github.com/mission365/leetcode_problems/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/mission365/leetcode_problems/tree/master/3647-zero-array-transformation-iii) |
 <!---LeetCode Topics End-->
