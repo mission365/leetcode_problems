@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/mission365/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/mission365/leetcode_problems/tree/master/0242-valid-anagram) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/mission365/leetcode_problems/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/mission365/leetcode_problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mission365/leetcode_problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2215-finding-3-digit-even-numbers](https://github.com/mission365/leetcode_problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/mission365/leetcode_problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/mission365/leetcode_problems/tree/master/0169-majority-element) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/mission365/leetcode_problems/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/mission365/leetcode_problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mission365/leetcode_problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/mission365/leetcode_problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/mission365/leetcode_problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -242,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/mission365/leetcode_problems/tree/master/0801-is-graph-bipartite) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/mission365/leetcode_problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/mission365/leetcode_problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/mission365/leetcode_problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Dynamic Programming
@@ -249,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/mission365/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0806-domino-and-tromino-tiling](https://github.com/mission365/leetcode_problems/tree/master/0806-domino-and-tromino-tiling) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/mission365/leetcode_problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/mission365/leetcode_problems/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/mission365/leetcode_problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mission365/leetcode_problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -285,4 +289,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3639-zero-array-transformation-i](https://github.com/mission365/leetcode_problems/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/mission365/leetcode_problems/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/mission365/leetcode_problems/tree/master/3647-zero-array-transformation-iii) |
+## Topological Sort
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/mission365/leetcode_problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Memoization
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/mission365/leetcode_problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
