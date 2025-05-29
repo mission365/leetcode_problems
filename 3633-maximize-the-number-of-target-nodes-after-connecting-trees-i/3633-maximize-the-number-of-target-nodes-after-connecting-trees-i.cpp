@@ -1,29 +1,45 @@
 class Solution {
 public:
-    vector<vector<int>> buildList(const vector<vector<int>>& edges) {
-        vector<vector<int>> adj(edges.size() + 1);
-        for (auto &e : edges) {
-            adj[e[0]].push_back(e[1]);
-            adj[e[1]].push_back(e[0]);
-        }
-        return adj;
-    }
-    
-    int dfs(const vector<vector<int>>& adj, int u, int p, int k) {
-        if (k < 0) return 0;
-        int cnt = 1;
-        for (int v : adj[u])
-            if (v != p) cnt += dfs(adj, v, u, k-1);
-        return cnt;
-    }
-    
-    vector<int> maxTargetNodes(vector<vector<int>>& edges1, vector<vector<int>>& edges2, int k) {
-        auto adj1 = buildList(edges1), adj2 = buildList(edges2);
-        int n = adj1.size(), m = adj2.size(), maxiB = 0;
-        vector<int> res(n);
 
-        for (int i = 0; i < m; i++) maxiB = max(maxiB, dfs(adj2, i, -1, k - 1));
-        for (int i = 0; i < n; i++) res[i] = dfs(adj1, i, -1, k) + maxiB;
-        return res;
+    int dfs(int curr, unordered_map<int, vector<int>> &adj, int d, int check){
+        if(d<0) return 0;
+        int count = 1;
+        for(auto &it: adj[curr]){
+            if(it != check){
+                count += dfs(it, adj, d-1, curr);
+            }
+        }
+        return count;
+    }
+
+    vector<int> solveTargetNode(vector<vector<int>>& edges, int d){
+        int n = edges.size()+1;
+        unordered_map<int, vector<int>> adj;
+        for(auto &it: edges){
+            int u = it[0];
+            int v = it[1];
+            adj[u].push_back(v);
+            adj[v].push_back(u);
+        }
+        vector<int> result(n);
+            for(int i=0;i<n;i++){
+                result[i] = dfs(i, adj, d, -1);
+            }
+        return result;
+    }
+    vector<int> maxTargetNodes(vector<vector<int>>& edges1, vector<vector<int>>& edges2, int k) {
+        int n = edges1.size()+1;
+
+        vector<int> res1 = solveTargetNode(edges1,k);
+        vector<int> res2 = solveTargetNode(edges2,k-1);
+
+        int mx = *max_element(res2.begin(), res2.end());
+        
+        vector<int> ans;
+        for(auto &it: res1){
+            ans.push_back(it+mx);
+        }
+        return ans;
+
     }
 };
