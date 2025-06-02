@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/mission365/leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/mission365/leetcode_problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mission365/leetcode_problems/tree/master/0088-merge-sorted-array) |
+| [0135-candy](https://github.com/mission365/leetcode_problems/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mission365/leetcode_problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mission365/leetcode_problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/mission365/leetcode_problems/tree/master/0169-majority-element) |
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mission365/leetcode_problems/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/mission365/leetcode_problems/tree/master/0135-candy) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/mission365/leetcode_problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/mission365/leetcode_problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mission365/leetcode_problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
