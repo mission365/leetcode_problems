@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/mission365/leetcode_problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/mission365/leetcode_problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/mission365/leetcode_problems/tree/master/1293-three-consecutive-odds) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/mission365/leetcode_problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mission365/leetcode_problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/mission365/leetcode_problems/tree/master/1646-kth-missing-positive-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mission365/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/mission365/leetcode_problems/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/mission365/leetcode_problems/tree/master/0801-is-graph-bipartite) |
 | [0945-snakes-and-ladders](https://github.com/mission365/leetcode_problems/tree/master/0945-snakes-and-ladders) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/mission365/leetcode_problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/mission365/leetcode_problems/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/mission365/leetcode_problems/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Union Find
@@ -259,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/mission365/leetcode_problems/tree/master/0801-is-graph-bipartite) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/mission365/leetcode_problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/mission365/leetcode_problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/mission365/leetcode_problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/mission365/leetcode_problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
