@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/mission365/leetcode_problems/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/mission365/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/mission365/leetcode_problems/tree/master/0257-binary-tree-paths) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/mission365/leetcode_problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mission365/leetcode_problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/mission365/leetcode_problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/mission365/leetcode_problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -260,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/mission365/leetcode_problems/tree/master/0801-is-graph-bipartite) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/mission365/leetcode_problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Graph
 |  |
 | ------- |
