@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/mission365/leetcode_problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mission365/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mission365/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/mission365/leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0275-h-index-ii](https://github.com/mission365/leetcode_problems/tree/master/0275-h-index-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mission365/leetcode_problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0436-find-right-interval](https://github.com/mission365/leetcode_problems/tree/master/0436-find-right-interval) |
@@ -311,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/mission365/leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [3639-zero-array-transformation-i](https://github.com/mission365/leetcode_problems/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/mission365/leetcode_problems/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/mission365/leetcode_problems/tree/master/3647-zero-array-transformation-iii) |
