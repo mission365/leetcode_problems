@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mission365/leetcode_problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mission365/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/mission365/leetcode_problems/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/mission365/leetcode_problems/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mission365/leetcode_problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/mission365/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mission365/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/mission365/leetcode_problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/mission365/leetcode_problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/mission365/leetcode_problems/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/mission365/leetcode_problems/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/mission365/leetcode_problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/mission365/leetcode_problems/tree/master/0441-arranging-coins) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mission365/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -265,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/mission365/leetcode_problems/tree/master/0204-count-primes) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mission365/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/mission365/leetcode_problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/mission365/leetcode_problems/tree/master/3201-distribute-candies-among-children-ii) |
@@ -362,4 +365,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mission365/leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mission365/leetcode_problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
