@@ -374,4 +374,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/mission365/leetcode_problems/tree/master/0204-count-primes) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/mission365/leetcode_problems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
