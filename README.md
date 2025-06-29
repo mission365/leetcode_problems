@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/mission365/leetcode_problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mission365/leetcode_problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/mission365/leetcode_problems/tree/master/1646-kth-missing-positive-number) |
+| [1755-defuse-the-bomb](https://github.com/mission365/leetcode_problems/tree/master/1755-defuse-the-bomb) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mission365/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/mission365/leetcode_problems/tree/master/2048-build-array-from-permutation) |
 | [2215-finding-3-digit-even-numbers](https://github.com/mission365/leetcode_problems/tree/master/2215-finding-3-digit-even-numbers) |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/mission365/leetcode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/mission365/leetcode_problems/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/mission365/leetcode_problems/tree/master/0658-find-k-closest-elements) |
+| [1755-defuse-the-bomb](https://github.com/mission365/leetcode_problems/tree/master/1755-defuse-the-bomb) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
