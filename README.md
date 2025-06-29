@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/mission365/leetcode_problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0436-find-right-interval](https://github.com/mission365/leetcode_problems/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mission365/leetcode_problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/mission365/leetcode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/mission365/leetcode_problems/tree/master/0658-find-k-closest-elements) |
 | [0733-flood-fill](https://github.com/mission365/leetcode_problems/tree/master/0733-flood-fill) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/mission365/leetcode_problems/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/mission365/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mission365/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0436-find-right-interval](https://github.com/mission365/leetcode_problems/tree/master/0436-find-right-interval) |
+| [0594-longest-harmonious-subsequence](https://github.com/mission365/leetcode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/mission365/leetcode_problems/tree/master/0658-find-k-closest-elements) |
 | [2215-finding-3-digit-even-numbers](https://github.com/mission365/leetcode_problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/mission365/leetcode_problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -166,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/mission365/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/mission365/leetcode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/mission365/leetcode_problems/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -193,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/mission365/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mission365/leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/mission365/leetcode_problems/tree/master/0242-valid-anagram) |
+| [0594-longest-harmonious-subsequence](https://github.com/mission365/leetcode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/mission365/leetcode_problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/mission365/leetcode_problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mission365/leetcode_problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -206,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mission365/leetcode_problems/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/mission365/leetcode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/mission365/leetcode_problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/mission365/leetcode_problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mission365/leetcode_problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
