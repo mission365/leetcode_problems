@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/mission365/leetcode_problems/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/mission365/leetcode_problems/tree/master/0658-find-k-closest-elements) |
 | [1755-defuse-the-bomb](https://github.com/mission365/leetcode_problems/tree/master/1755-defuse-the-bomb) |
+| [1873-longest-nice-substring](https://github.com/mission365/leetcode_problems/tree/master/1873-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/mission365/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/mission365/leetcode_problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mission365/leetcode_problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [1873-longest-nice-substring](https://github.com/mission365/leetcode_problems/tree/master/1873-longest-nice-substring) |
 ## Hash Table
 |  |
 | ------- |
@@ -202,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/mission365/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/mission365/leetcode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/mission365/leetcode_problems/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1873-longest-nice-substring](https://github.com/mission365/leetcode_problems/tree/master/1873-longest-nice-substring) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/mission365/leetcode_problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mission365/leetcode_problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2215-finding-3-digit-even-numbers](https://github.com/mission365/leetcode_problems/tree/master/2215-finding-3-digit-even-numbers) |
@@ -235,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/mission365/leetcode_problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mission365/leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/mission365/leetcode_problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1873-longest-nice-substring](https://github.com/mission365/leetcode_problems/tree/master/1873-longest-nice-substring) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mission365/leetcode_problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/mission365/leetcode_problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/mission365/leetcode_problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -276,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [1873-longest-nice-substring](https://github.com/mission365/leetcode_problems/tree/master/1873-longest-nice-substring) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mission365/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/mission365/leetcode_problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Combinatorics
