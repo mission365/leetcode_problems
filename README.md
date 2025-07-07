@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1755-defuse-the-bomb](https://github.com/mission365/leetcode_problems/tree/master/1755-defuse-the-bomb) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mission365/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/mission365/leetcode_problems/tree/master/2048-build-array-from-permutation) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mission365/leetcode_problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2215-finding-3-digit-even-numbers](https://github.com/mission365/leetcode_problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/mission365/leetcode_problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/mission365/leetcode_problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0436-find-right-interval](https://github.com/mission365/leetcode_problems/tree/master/0436-find-right-interval) |
 | [0594-longest-harmonious-subsequence](https://github.com/mission365/leetcode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/mission365/leetcode_problems/tree/master/0658-find-k-closest-elements) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mission365/leetcode_problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2215-finding-3-digit-even-numbers](https://github.com/mission365/leetcode_problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/mission365/leetcode_problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/mission365/leetcode_problems/tree/master/3321-type-of-triangle) |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1755-defuse-the-bomb](https://github.com/mission365/leetcode_problems/tree/master/1755-defuse-the-bomb) |
 | [1873-longest-nice-substring](https://github.com/mission365/leetcode_problems/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/mission365/leetcode_problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mission365/leetcode_problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
