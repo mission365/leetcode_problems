@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/mission365/leetcode_problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/mission365/leetcode_problems/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/mission365/leetcode_problems/tree/master/0633-sum-of-square-numbers) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/mission365/leetcode_problems/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mission365/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/mission365/leetcode_problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/mission365/leetcode_problems/tree/master/3201-distribute-candies-among-children-ii) |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/mission365/leetcode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/mission365/leetcode_problems/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/mission365/leetcode_problems/tree/master/0658-find-k-closest-elements) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/mission365/leetcode_problems/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1755-defuse-the-bomb](https://github.com/mission365/leetcode_problems/tree/master/1755-defuse-the-bomb) |
 | [1873-longest-nice-substring](https://github.com/mission365/leetcode_problems/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/mission365/leetcode_problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -244,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/mission365/leetcode_problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mission365/leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/mission365/leetcode_problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/mission365/leetcode_problems/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1873-longest-nice-substring](https://github.com/mission365/leetcode_problems/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/mission365/leetcode_problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mission365/leetcode_problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
