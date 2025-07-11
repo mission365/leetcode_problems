@@ -3,36 +3,27 @@ using System.Collections.Generic;
 
 public class Solution {
     public IList<string> FindRepeatedDnaSequences(string s) {
-        HashSet<string> seen = new HashSet<string>();
-        HashSet<string> repeated = new HashSet<string>();
+        int n = s.Length;
+        List<string> ans = new List<string>();
+        if (n < 10) return ans;
 
-        // If the string is too short, no sequence is possible
-        if (s.Length < 10) {
-            return new List<string>();
-        }
+        Dictionary<string, int> mp = new Dictionary<string, int>();
 
-        for (int i = 0; i <= s.Length - 10; i++) {
-            string window = FindSubstring(s, i, i + 10);
-            if (!seen.Add(window)) {
-                repeated.Add(window);
+        for (int i = 0; i <= n - 10; i++) {
+            string str = s.Substring(i, 10);
+            if (mp.ContainsKey(str)) {
+                mp[str]++;
+            } else {
+                mp[str] = 1;
             }
         }
 
-        return new List<string>(repeated);
-    }
-
-    public string FindSubstring(string s, int i, int j) {
-        char[] temp = new char[j - i];
-        
-        for (int k = i; k < j; k++) {
-            temp[k - i] = s[k];
+        foreach (var kvp in mp) {
+            if (kvp.Value > 1) {
+                ans.Add(kvp.Key);
+            }
         }
 
-        string res = "";
-        for (int k = 0; k < temp.Length; k++) {
-            res += temp[k];
-        }
-
-        return res;
+        return ans;
     }
 }
